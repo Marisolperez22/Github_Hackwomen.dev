@@ -1,2 +1,6 @@
 # Github_Hackwomen.dev
-Trabajando GitHub
+## Trabajando GitHub
+Las cosas que me gustan 😄
++ patinar
++ viajar
++ escuchar música
